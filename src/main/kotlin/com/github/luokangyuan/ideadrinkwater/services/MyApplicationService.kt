@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.luokangyuan.ideadrinkwater.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.luokangyuan.ideadrinkwater.MyBundle
 
 class MyApplicationService {
 
